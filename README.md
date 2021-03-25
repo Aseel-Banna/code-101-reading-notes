@@ -1,4 +1,4 @@
-# code-102-reading-notes
+# Code 102 Intro to Software Development
 
 ## Table of Contents
 Read Number | Topic Name | Link
